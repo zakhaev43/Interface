@@ -353,7 +353,6 @@ body {
   transition: all .3s; }
   .main-panel > .container {
     min-height: calc(100% - 123px);
-    margin-top: 69px;
     overflow: hidden;
     width: 100%;
     max-width: unset;
@@ -361,7 +360,6 @@ body {
   .main-panel > .container-full {
     padding: 0px !important;
     min-height: calc(100% - 123px);
-    margin-top: 70px;
     overflow: hidden;
     width: 100%;
     max-width: unset; }
